@@ -1,0 +1,6 @@
+{
+  "name": "MindEase AI",
+  "description": "A supportive virtual grounding assistant designed to help secondary school students manage everyday stress, anxiety, and emotional overwhelm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
